@@ -1,0 +1,41 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+	color: #D8FD35;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 4px;
+	font-size: 100px;
+	margin-top: 130px;
+}
+
+h2, a {
+	text-align: center;
+	color: #FC1475;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 4px;
+	font-size: 50px;
+}
+
+#parent-selector {
+	overflow: hidden;
+}
+
+#selector {
+	color: var(--secondary-color);
+	font-family: var(--paragraph-font);
+	text-transform: uppercase;
+	position: relative;
+	text-align: center;
+	margin: 40px;
+	font-size: 25px;
+	color: #FC21CC;
+	font-family: 'Abel', sans-serif;
+	font-size: 70px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
